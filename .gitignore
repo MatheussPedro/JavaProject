@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/java
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
 
 ### Java ###
+=======
+>>>>>>> 358a26b16918b45f67d3d60812317dccf90bc30d
 # Compiled class file
 *.class
 
@@ -26,5 +29,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/java
+=======
+>>>>>>> 358a26b16918b45f67d3d60812317dccf90bc30d
